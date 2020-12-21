@@ -1,0 +1,7 @@
+C:\Users\yurypc\Desktop\BuildUtility\BuildUtility\BuildUtility\bin\Debug\BuildUtility.exe.config
+C:\Users\yurypc\Desktop\BuildUtility\BuildUtility\BuildUtility\bin\Debug\BuildUtility.exe
+C:\Users\yurypc\Desktop\BuildUtility\BuildUtility\BuildUtility\bin\Debug\BuildUtility.pdb
+C:\Users\yurypc\Desktop\BuildUtility\BuildUtility\BuildUtility\obj\Debug\BuildUtility.csprojAssemblyReference.cache
+C:\Users\yurypc\Desktop\BuildUtility\BuildUtility\BuildUtility\obj\Debug\BuildUtility.csproj.CoreCompileInputs.cache
+C:\Users\yurypc\Desktop\BuildUtility\BuildUtility\BuildUtility\obj\Debug\BuildUtility.exe
+C:\Users\yurypc\Desktop\BuildUtility\BuildUtility\BuildUtility\obj\Debug\BuildUtility.pdb
